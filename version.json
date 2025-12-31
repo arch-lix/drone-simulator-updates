@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/arch-lix/drone-simulator-updates/releases/download/v1.0.1/DroneSimulatorSetup.exe",
-  "changelog": "• Исправлена проблема с пропаданием дрона<br>• Добавлена возможность изменения размера консолей<br>• Улучшена система миссий<br>• Исправлены ошибки в командах"
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/arch-lix/drone-simulator-updates/releases/download/v1.0.2/DroneSimulatorSetup.exe",
+  "changelog": "• Новый дизайн редактора боксов<br>• Улучшенные уведомления<br>• Исправлены ошибки"
 }
